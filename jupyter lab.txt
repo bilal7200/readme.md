@@ -1,0 +1,13 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
+
+jupyter notebook on interenet
+
+https://github.com/jupyter/jupyter/wiki#economics-and-finance
+
+https://nbviewer.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb
+
+https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb
+
+https://nbviewer.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb
+
+https://www.kaggle.com/code/lalitharajesh/iris-dataset-exploratory-data-analysis/notebook
